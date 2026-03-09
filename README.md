@@ -5,6 +5,7 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 
 ## Problem Statement and Dataset
 <img width="746" height="701" alt="DP5 5" src="https://github.com/user-attachments/assets/90b2bdcc-230f-45d7-88d8-6ff4bc65e570" />
+<img width="633" height="753" alt="DP5 6" src="https://github.com/user-attachments/assets/8f7e0c3a-5be0-49b8-bffb-63b6b3e245bb" />
 
 
 
